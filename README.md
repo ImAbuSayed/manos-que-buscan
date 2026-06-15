@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/manos-que-buscan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Manos que buscan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manos-que-buscan/) |
+| **Get License** | [Obtain a Music License for Manos que buscan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manos-que-buscan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6ac4d978c5488e2c7c0bdb4c620d7326277084e58be96e1ba884ef03582da507` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

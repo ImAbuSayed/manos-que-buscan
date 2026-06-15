@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Manos que buscan
+
+This log tracks the cryptographic history and versioning for the song **Manos que buscan** (manos-que-buscan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T00:02:43.021535 | `v1` | `6ac4d978c5488e2c7c0bdb4c620d7326277084e58be96e1ba884ef03582da507` | `15fa8537ab63090ef7c0d090a59208aa403ac58cd2888b789c2be7196d6cb06a` | `2026-06-16_manos-que-buscan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
