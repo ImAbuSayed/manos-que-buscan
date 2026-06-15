@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/manos-que-buscan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Manos que buscan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manos-que-buscan/) |
+| **Get License** | [Request Licensing for Manos que buscan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manos-que-buscan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, mami, tú sabes que la noche nos llama
+> Un roce furtivo, perdiéndome en tu cama
+> Tú tienes la vibra que mi alma reclama
+> Let's ride through the city, encendemos la llama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 15, 2026 |
+| **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
